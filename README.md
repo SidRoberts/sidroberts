@@ -21,4 +21,5 @@ Currently working on:
 - [Instagram](https://instagram.com/sidbusan)
 - [Facebook](https://facebook.com/sidroberts)
 - [GitHub](https://github.com/sidroberts)
+- [MusicBrainz](https://musicbrainz.org/user/sidroberts)
 - [Pinterest](https://pinterest.com/yeosufashionista)
