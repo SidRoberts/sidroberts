@@ -1,7 +1,11 @@
-Currently learning / working on:
+# Always be learning...
+
+Currently learning:
+
+* Docker/Kubernetes
+* Android app development
+* [Korean](https://www.duolingo.com/profile/sidroberts)
+
+Currently working on:
 
 * [Centum framework](https://github.com/SidRoberts/centum)
-* Docker/Kubernetes
-* LaTeX
-* React.js
-* Korean
