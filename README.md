@@ -1,3 +1,7 @@
+**Hi there! I'm Sid. I'm a kindergarten teacher with an interest in code and music.**
+
+
+
 # Always be learning...
 
 Currently learning:
