@@ -22,4 +22,5 @@ Currently working on:
 - [Facebook](https://facebook.com/sidroberts)
 - [GitHub](https://github.com/sidroberts)
 - [MusicBrainz](https://musicbrainz.org/user/sidroberts)
+- [Duolingo](https://www.duolingo.com/profile/sidroberts)
 - [Pinterest](https://pinterest.com/yeosufashionista)
