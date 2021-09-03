@@ -9,3 +9,12 @@ Currently learning:
 Currently working on:
 
 * [Centum framework](https://github.com/SidRoberts/centum)
+
+
+
+# Social
+
+- [Instagram](https://instagram.com/sidbusan)
+- [Facebook](https://facebook.com/sidroberts)
+- [GitHub](https://github.com/sidroberts)
+- [Pinterest](https://pinterest.com/yeosufashionista)
