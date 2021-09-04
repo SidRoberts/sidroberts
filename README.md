@@ -2,17 +2,17 @@
 
 
 
-# Always be learning...
+# Current projects
 
-Currently learning:
+* [Centum framework](https://github.com/SidRoberts/centum)
+
+
+
+# Currently learning about
 
 * Docker/Kubernetes
 * Android app development
 * [Korean](https://www.duolingo.com/profile/sidroberts)
-
-Currently working on:
-
-* [Centum framework](https://github.com/SidRoberts/centum)
 
 
 
