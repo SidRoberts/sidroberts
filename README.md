@@ -24,3 +24,17 @@
 - [MusicBrainz](https://musicbrainz.org/user/sidroberts)
 - [Duolingo](https://www.duolingo.com/profile/sidroberts)
 - [Pinterest](https://pinterest.com/yeosufashionista)
+
+
+
+# My Development Environment
+
+- Fedora
+- i3
+- Polybar
+- VS Code
+- Xfce4 Terminal
+- Docker
+- VirtualBox
+
+([learn more...](https://github.com/SidRoberts/fedora-install-script))
