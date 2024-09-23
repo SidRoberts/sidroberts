@@ -37,4 +37,4 @@
 - Docker
 - VirtualBox
 
-([learn more...](https://github.com/SidRoberts/fedora-install-script))
+([learn more...](https://github.com/SidRoberts/dotfiles/blob/main/setup.sh))
