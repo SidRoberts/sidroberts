@@ -2,7 +2,7 @@
 
 
 
-# 🚀 Current projects
+# 🚀 Featured projects
 
 - [Centum framework](https://github.com/SidRoberts/centum)
 
