@@ -4,15 +4,15 @@
 
 # 🚀 Current projects
 
-* [Centum framework](https://github.com/SidRoberts/centum)
+- [Centum framework](https://github.com/SidRoberts/centum)
 
 
 
 # 📚 Currently learning about
 
-* Docker/Kubernetes
-* Android app development
-* [Korean](https://www.duolingo.com/profile/sidroberts)
+- Docker/Kubernetes
+- Android app development
+- [Korean](https://www.duolingo.com/profile/sidroberts)
 
 
 
