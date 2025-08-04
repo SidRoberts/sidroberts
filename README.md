@@ -29,6 +29,8 @@
 
 # 🧰 My development environment
 
+## 🐧 Linux
+
 - Fedora
 - i3
 - Polybar
@@ -38,3 +40,9 @@
 - VirtualBox
 
 ([learn more...](https://github.com/SidRoberts/dotfiles/blob/main/setup.sh))
+
+### 🍎 macOS
+
+- Aerospace
+- VS Code
+- Docker
