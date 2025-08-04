@@ -2,13 +2,13 @@
 
 
 
-# Current projects
+# 🚀 Current projects
 
 * [Centum framework](https://github.com/SidRoberts/centum)
 
 
 
-# Currently learning about
+# 📚 Currently learning about
 
 * Docker/Kubernetes
 * Android app development
@@ -16,7 +16,7 @@
 
 
 
-# Social
+# 🌐 Social
 
 - [Instagram](https://instagram.com/sidbusan)
 - [Facebook](https://facebook.com/sidroberts)
@@ -27,7 +27,7 @@
 
 
 
-# My Development Environment
+# 🧰 My development environment
 
 - Fedora
 - i3
