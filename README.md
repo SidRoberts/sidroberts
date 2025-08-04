@@ -4,7 +4,10 @@
 
 # 🚀 Featured projects
 
-- [Centum framework](https://github.com/SidRoberts/centum)
+- **[Centum framework](https://github.com/SidRoberts/centum)**:
+   An all-encompassing PHP framework designed to simplify the building of MVC-style web applications.
+- **[centum‑project](https://github.com/SidRoberts/centum-project)**:
+  A starter skeleton for Centum‑based applications.
 
 
 
