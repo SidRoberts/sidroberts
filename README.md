@@ -19,6 +19,12 @@
 
 
 
+# 📺 Now watching
+
+🖖 [Star Trek: Enterprise](https://www.imdb.com/title/tt0244365/) *(Season 1)*
+
+
+
 # 🌐 Social
 
 - [Instagram](https://instagram.com/sidbusan)
