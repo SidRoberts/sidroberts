@@ -31,12 +31,12 @@ I'm a kindergarten teacher with an interest in code and music.
 
 # 🌐 Social
 
-- [Instagram](https://instagram.com/sidbusan)
-- [Facebook](https://facebook.com/sidroberts)
-- [GitHub](https://github.com/sidroberts)
-- [MusicBrainz](https://musicbrainz.org/user/sidroberts)
-- [Duolingo](https://www.duolingo.com/profile/sidroberts)
-- [Pinterest](https://pinterest.com/yeosufashionista)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sidbusan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sidroberts)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidRoberts)
+[![MusicBrainz](https://img.shields.io/badge/MusicBrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://musicbrainz.org/user/sidroberts)
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/sidroberts)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/yeosufashionista)
 
 
 
