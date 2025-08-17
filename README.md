@@ -25,7 +25,7 @@ I'm a kindergarten teacher with an interest in code and music.
 
 # 📺 Now watching
 
-🖖 [Star Trek: Enterprise](https://www.imdb.com/title/tt0244365/) *(Season 1)*
+🖖 [Star Trek: Enterprise](https://www.imdb.com/title/tt0244365/) *(Season 2)*
 
 
 
