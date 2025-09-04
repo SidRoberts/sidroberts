@@ -1,7 +1,7 @@
 # 👋 Hello
 
 Hi there! I'm Sid.
-I live in Busan, South Korea.
+I live in Busan, South Korea. 🇰🇷
 I'm a kindergarten teacher with an interest in code and music.
 
 
