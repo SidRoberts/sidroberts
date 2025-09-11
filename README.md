@@ -42,6 +42,12 @@ I'm a kindergarten teacher with an interest in code and music.
 
 # 🧰 My development environment
 
+## 🍎 macOS
+
+- Aerospace
+- VS Code
+- Docker
+
 ## 🐧 Linux
 
 - Fedora
@@ -52,10 +58,4 @@ I'm a kindergarten teacher with an interest in code and music.
 - Docker
 - VirtualBox
 
-([learn more...](https://github.com/SidRoberts/dotfiles/blob/main/setup.sh))
-
-### 🍎 macOS
-
-- Aerospace
-- VS Code
-- Docker
+([Full setup script](https://github.com/SidRoberts/dotfiles/blob/main/setup.sh))
