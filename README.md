@@ -37,6 +37,7 @@ I'm a kindergarten teacher with an interest in code and music.
 [![MusicBrainz](https://img.shields.io/badge/MusicBrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://musicbrainz.org/user/sidroberts)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/sidroberts)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/yeosufashionista)
+[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)](https://open.kakao.com/me/sidbusan)
 
 
 
