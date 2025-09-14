@@ -45,6 +45,7 @@ I'm a kindergarten teacher with an interest in code and music.
 ## 🍎 macOS
 
 - Aerospace
+- Raycast
 - VS Code
 - Docker
 
